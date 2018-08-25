@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleBrowser</string>
+    <string name="web">Web</string>
+    <string name="name">Name</string>
+</resources>

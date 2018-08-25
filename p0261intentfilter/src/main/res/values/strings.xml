@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="date_basic">Date basic</string>
+    <string name="date_extended">Date extended</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_alpha"
+        android:title="alpha"
+        android:onClick="onAlphaItemClick">
+    </item>
+    <item
+        android:id="@+id/menu_scale"
+        android:title="scale"
+        android:onClick="onScaleItemClick">
+    </item>
+    <item
+        android:id="@+id/menu_translate"
+        android:title="translate"
+        android:onClick="onTranslateItemClick">
+    </item>
+    <item
+        android:id="@+id/menu_rotate"
+        android:title="rotate"
+        android:onClick="onRotateItemClick">
+    </item>
+    <item
+        android:id="@+id/menu_combo"
+        android:title="combo"
+        android:onClick="onComboItemClick">
+    </item>
+</menu>
